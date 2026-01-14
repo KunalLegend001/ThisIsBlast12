@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: e913a3e632f1bcd448f97709d381c696
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 492
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fabdbc3badaf240968c0cef6790f37
+      internalID: 1627158683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1748
+        width: 492
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16baf7b57c2fd3f478f5a1b42ef88012
+      internalID: 1525804419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1998
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ad80547cfb87145a40af4c79fef6d7
+      internalID: -1281161712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_3
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1759
+        width: 252
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a5dac23edeb1f47bc3a1e17e75e879
+      internalID: 884587946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1302
+        width: 744
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c89df4c1b9354f9a91e0e81f10b82
+      internalID: 1799453505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_5
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1758
+        width: 139
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7b370d44609f4fac6c9206668c224
+      internalID: 2025897831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_6
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1561
+        width: 253
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443dabcbfb8daf7489570bbd07473e8a
+      internalID: 1371829659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 1026
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4beb7c4113729c46b5f219a47acf1f0
+      internalID: -1905530792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_8
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1293
+        width: 265
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f4e938c58afe4b9fc0ac9f65e55f8
+      internalID: 734314079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_9
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1554
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16911c0978803f546a3f9034a12bf7fe
+      internalID: -2122997394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_10
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1038
+        width: 488
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c35f9403e91449b3169b759c17916
+      internalID: 1171839484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_11
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 927
+        width: 234
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab582a86873234bbce240a76689c92
+      internalID: 731170629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_12
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 927
+        width: 228
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3338b240ba02b49bf85732ffe076f4
+      internalID: -1810128726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 263
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c0d4894fdb95b409d5bd6f8363ec01
+      internalID: 963509637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 876
+        width: 5
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8157c5bfe4c747ac5e94fa7335b23
+      internalID: -951953133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 504
+        width: 448
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba54479ae73a4845ba274cb896edf3d
+      internalID: 1766273195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_16
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 774
+        width: 6
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea69ff510182d54eacf7d3a895a31b2
+      internalID: -1356206052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 768
+        width: 492
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ebb0f0043bbe40ae84320f7666298
+      internalID: -51792015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_18
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 664
+        width: 270
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e202708c5db1aa5498ea02fdc16d81df
+      internalID: -525163318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 519
+        width: 101
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7d025ff742304a9565d22b4fa977c
+      internalID: 1393413435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 518
+        width: 492
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9d3dfbcde80a4da825eabbe447632
+      internalID: -1246753048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_21
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 522
+        width: 521
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a012130342b648b3ba35d54ca6d40
+      internalID: -1016263711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 486
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de7f4a889668c49be901988a8fb765
+      internalID: 69660459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_23
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 504
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d884534a634944fabbe62542a1f3da
+      internalID: -2059936979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_24
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 258
+        width: 545
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb01d96fd57c91e409507f75bd0a4bea
+      internalID: 2006725497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_25
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 486
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c510421241b9f540b84b48efccf2a2f
+      internalID: 1030800338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_26
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 0
+        width: 513
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e0c9ea9ed09c44b798aa4cc71c26e
+      internalID: 965735612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 396
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda8a3dc111e4e4fa7786e9a4649660
+      internalID: -360923150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_28
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 492
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac865f025ef28fc46a808e12da52cc42
+      internalID: 1746404756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: db0beddb516937c40b394e20075c1519
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_0: 1627158683
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_1: 1525804419
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_10: 1171839484
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_11: 731170629
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_12: -1810128726
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_13: 963509637
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_14: -951953133
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_15: 1766273195
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_16: -1356206052
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_17: -51792015
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_18: -525163318
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_19: 1393413435
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_2: -1281161712
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_20: -1246753048
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_21: -1016263711
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_22: 69660459
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_23: -2059936979
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_24: 2006725497
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_25: 1030800338
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_26: 965735612
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_27: -360923150
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_28: 1746404756
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_3: 884587946
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_4: 1799453505
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_5: 2025897831
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_6: 1371829659
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_7: -1905530792
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_8: 734314079
+      sactx-0-2048x2048-ASTC 6x6-Atlas_UI_Menu_Shop-af15c36c_9: -2122997394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
